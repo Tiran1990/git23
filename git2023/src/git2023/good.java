@@ -5,6 +5,6 @@ public class good {
 	System.out.println("Hello Git 2023");
 	while(true);
 	//hiujjv();
-	//its ok;
+	//its ok;.....
 }
 }
